@@ -1,6 +1,9 @@
 
-	 body {
-	      margin-top: 60px;
-	      text-align: center;
-	      
-		  }
+.col-5 {
+	width: 100%;
+} 
+
+body {
+	margin-top: 60px;
+	text-align: center;
+}
